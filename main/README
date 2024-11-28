@@ -1,1 +1,9 @@
+В monkey_code используется модель MobileNetV2 из фреймворка Tensorflow.
 
+Стэк:
+
+Python;
+Pandas;
+Numpy;
+Tensorflow;
+Sklearn.
