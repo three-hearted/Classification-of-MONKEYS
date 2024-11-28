@@ -18,8 +18,12 @@ n9 - Капюшонный гульман (trachypithecus_johnii).
 Реализовано с помощью модели MobileNetV2. 
 
 Стэк:
+
 - Python;
 - Pandas;
 - Numpy;
 - Tensorflow;
 - Sklearn.
+![angry guys](https://github.com/user-attachments/assets/d6223787-b067-454d-88fe-04547e2f54f3)
+
+  
